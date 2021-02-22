@@ -1,2 +1,4 @@
-# MomentumLearn
-This repository stores the "how to do" coding stuff from my online tutorials. Feel free to do anything, Care about sharing knowledge though
+# CandleStick (Kline) reading, Saving from Binance using websocket. SpringBoot example
+## Before Running this project
+- Add your data base details in the **application.properties** file
+- Add your api keys in the **CandleStickService.java** file . If you don't have an api key and secret you can get it from [**Binance**](https://bit.ly/2MKLfTM "Go to Binance").
